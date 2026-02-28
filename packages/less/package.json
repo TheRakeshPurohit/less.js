@@ -99,7 +99,7 @@
 		"promise": "^7.1.1",
 		"read-glob": "^3.0.0",
 		"resolve": "^1.17.0",
-		"rollup": "^2.52.2",
+		"rollup": "^2.80.0",
 		"rollup-plugin-terser": "^5.1.1",
 		"rollup-plugin-typescript2": "^0.29.0",
 		"semver": "^6.3.0",
